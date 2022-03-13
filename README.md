@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HoldCryptoInc
 - 👀 I’m interested in Cardano NFT's and Lighting network applications. 
-- 📫 How to reach me consult@holdcrypto.today
+- 📫 How to reach me consult@holdcryptoinc.com
 
 <!---
 HoldCryptoInc/HoldCryptoInc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
